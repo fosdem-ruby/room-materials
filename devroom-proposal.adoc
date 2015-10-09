@@ -9,8 +9,8 @@ The Ruby Devroom at FOSDEM is an interpreter and runtime focused developer room
 for the Ruby programming language. Unlike practically any other Ruby event, the
 Ruby Devroom is focused around the multiple, mature, open source projects
 which implement the language. Instead of focusing on how to use Ruby, this room
-focuses on how the interpreters, standard library and runtime itself is
-implemented; fostering a community of language implementers and providing an
+focuses on how the interpreters, libraries that extend the language and runtime itself is
+implementedk fostering a community of language implementers and providing an
 opportunity to share ideas and patterns for solving shared problems.
 
 The goal of this developer room is to discuss:
@@ -64,6 +64,6 @@ listening to talks.
 
 == Who
 
-* Christophe Philemotte (https://github.com/toch) - Ruby Belgium Organizer
+* Christophe Philemotte (https://github.com/toch) - Ruby Belgium board member
 * R Tyler Croy (https://github.com/rtyler/) - JRuby/Jenkins hacker
 * Florian Gilcher (https://github.com/skade) - Ruby Berlin e.V. (European non-profit) committee member, organizer, hacker
