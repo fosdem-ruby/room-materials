@@ -1,11 +1,9 @@
 = Devroom
--------------
 
 Ruby DevRoom
 
 
 == Description
----------------
 
 The Ruby Devroom at FOSDEM is an interpreter and runtime focused developer room
 for the Ruby programming language. Unlike practically any other Ruby event, the
@@ -25,7 +23,6 @@ The goal of this developer room is to discuss:
 
 
 == Projects URLs
---------------------
 
 * Ruby Belgium <http://rubybelgium.be/>
 * JRuby <http://jruby.org>
@@ -34,13 +31,11 @@ The goal of this developer room is to discuss:
 * Rubinius (Ruby on Ruby) <http://rubini.us/>
 
 == Preferred Day
--------------------
 
 We would be thrilled with either day
 
 
 = Why should FOSDEM accept this proposal?
------------------------------------------------------------
 
 While many Ruby developers attend FOSDEM, the Ruby open source community has
 generally been underrepresented in the technical content of the event. With the
