@@ -1,0 +1,74 @@
+= Devroom
+-------------
+
+Ruby DevRoom
+
+
+== Description
+---------------
+
+The Ruby Devroom at FOSDEM is an interpreter and runtime focused developer room
+for the Ruby programming language. Unlike practically any other Ruby event, the
+Ruby Devroom is focused around the multiple, mature, open source projects
+which implement the language. Instead of focusing on how to use Ruby, this room
+focuses on how the interpreters, standard library and runtime itself is
+implemented; fostering a community of language implementers and providing an
+opportunity to share ideas and patterns for solving shared problems.
+
+The goal of this developer room is to discuss:
+
+* The current state of the Ruby language
+* Techniques employed by various VMs and their effectiveness
+* Upcoming Ruby language features, and the challenges/benefits that they provide
+* Tools and practices used to certify Ruby language conformity and performance
+* Costs and Opportunities provided by the multitude of implementations
+
+
+== Projects URLs
+--------------------
+
+* Ruby Belgium <http://rubybelgium.be/>
+* JRuby <http://jruby.org>
+* Ruby (MRI) <https://www.ruby-lang.org/>
+* RubyTruffle <http://www.chrisseaton.com/rubytruffle/>
+* Rubinius (Ruby on Ruby) <http://rubini.us/>
+
+== Preferred Day
+-------------------
+
+We would be thrilled with either day
+
+
+= Why should FOSDEM accept this proposal?
+-----------------------------------------------------------
+
+While many Ruby developers attend FOSDEM, the Ruby open source community has
+generally been underrepresented in the technical content of the event. With the
+Ruby devroom not only would the Ruby community become more plugged
+into the FOSDEM experience, but FOSDEM would be hosting Ruby-oriented content
+that is both unique and very technical.
+
+Considering the broad interest in dynamic and interpreted languages, the Ruby
+devroom will also provide compelling technical content interesting to members
+of the Python, Perl, JavaScript, Smalltalk, LLVM and Java communities.
+
+With the number of notable Ruby implementations, listed below, there
+should be more than enough highly interesting and technical content!
+
+* Ruby (MRI, the original C-based VM)
+* JRuby (Ruby on the JVM)
+* Rubinius (Ruby on Ruby)
+* RubyTruffle (JRuby using Oracle's Truffle compiler)
+* RubyMotion (Ruby on top of Apple's Objective-C/Cocoa foundation)
+* Opal (A working Ruby to JavaScript compiler)
+
+A smaller (60-80 seats) room is more than sufficient for the community. In last
+year's devroom not only did that room have fit the number of interested people,
+more than half of the room stayed for the whole day engaging in discussions and
+listening to talks.
+
+== Who
+
+* Christophe Philemotte (https://github.com/toch) - Ruby Belgium Organizer
+* R Tyler Croy (https://github.com/rtyler/) - JRuby/Jenkins hacker
+* Florian Gilcher (https://github.com/skade) - Ruby Berlin e.V. (European non-profit) committee member, organizer, hacker
