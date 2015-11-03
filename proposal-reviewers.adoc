@@ -1,4 +1,4 @@
-# Reviewing Proposals
+= Reviewing Proposals
 
 The following are some guidelines for evaluating talk proposals for the Ruby devroom:
 
