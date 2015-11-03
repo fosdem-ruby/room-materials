@@ -1,0 +1,24 @@
+# Reviewing Proposals
+
+The following are some guidelines for evaluating talk proposals for the Ruby devroom:
+
+This devroom focuses on the language and its insides. As explained by the CFP, we'd like to see talks about
+
+* The current state of the Ruby language itself
+* Presentations on the techniques employed by various Ruby virtual machines and interpreters, along with the effectiveness and/or trade-offs of implementing those techniques
+* Upcoming Ruby language features, and the implementation challenges and/or user benefits that they provide
+* Tools and practices used to certify Ruby language conformity and evaluate its performance
+* Costs and Opportunities provided by the multitude of implementations
+* Ways to extend the language (natively or not)
+
+Compared with other conferences, it's then less about the way we can use Ruby to build application, and far more about the insides of the difference rubies and the language itself. An example of a bad fit is talk about the way we can use MRI to build a small application. When a good fit would be
+
+By saying so, a nice to have is that each implementation would be represented.
+
+Please note that we are open to suggestions for panels and/or more open, moderated, discussions provided the topics proposed fit with the theme of the room.
+
+To rate the talk, we suggest to consider the following criteria
+
+* devroom fit
+* content
+* represented implementation
